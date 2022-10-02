@@ -1,4 +1,6 @@
-title: Aditya Mahadevan's website
+title: Statistical Physics and Biology
 description: A collection of miscellaneous notes on topics in math and science
-theme: minima
-author: ""
+theme: minima 
+author:
+  name: Aditya Mahadevan
+  email: "amahadevan99@gmail.com"
