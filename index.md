@@ -1,6 +1,8 @@
 Welcome!
 
-These notes are by no means comprehensive, but are meant cover some topics that I find interesting.
+Miscellaneous Notes
 
-<a href="https://amahadevan99.github.io/files/pca_notes.pdf">Some notes on principal component analysis</a>
+<a href="https://amahadevan99.github.io/files/pca_notes.pdf">Principal component analysis with applications to spike sorting</a>
+
+<a href="https://amahadevan99.github.io/files/marchenko_pastur.pdf">Applications of the cavity method in random matrix theory</a>
 
