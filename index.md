@@ -1,4 +1,4 @@
-<a href="https://amahadevan99.github.io/_posts/test_post.md">Test Blog Post.</a>
+<a href="https://amahadevan99.github.io/posts/test_post.md">Test Blog Post.</a>
 Test blog post to see whether it works
 
 <a href="https://amahadevan99.github.io/files/neuro_jc.pdf">Chaos in random neural networks [PDF].</a>
