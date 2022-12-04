@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <font size="4">PDF Notes</font>
 
 <a href="https://amahadevan99.github.io/files/neuro_jc.pdf">Chaos in random neural networks [PDF].</a>
