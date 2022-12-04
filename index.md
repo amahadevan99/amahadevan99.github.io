@@ -1,4 +1,4 @@
-## PDF Notes
+<font size="6">PDF Notes</font>
 
 <a href="https://amahadevan99.github.io/files/neuro_jc.pdf">Chaos in random neural networks [PDF].</a>
 How can we understand observed irregular patterns of electrical activity in the brain via analysis of toy models? Here we look at two classes of models that have been studied in this context, and provide a rough outline of the statistical physics-motivated methods of analyzing them.
