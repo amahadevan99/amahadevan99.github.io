@@ -12,3 +12,5 @@ The cavity method is an obscure name for asserting consistency between the stati
 
 <a href="https://amahadevan99.github.io/files/pca_notes.pdf"> Principal component analysis and spike sorting [PDF].</a>
 A brief introduction to the ubiquitous PCA (principal component analysis) and its close relative the SVD (singular value decomposition). We present a toy application of PCA in the processing of electrophysiological data from _in silico_ neurons.
+
+<a href="https://amahadevan99.github.io/files/fpt_notes.pdf"> When does a random walker in one dimension first return to the origin? Here we calculate the distribution of first passage times for a biased and unbiased random walker, and find that the mean first passage time diverges in the unbiased case!
