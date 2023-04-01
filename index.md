@@ -1,5 +1,8 @@
+<a href="https://amahadevan99.github.io/files/stoch_calc.pdf"> Introduction to stochastic calculus [PDF].</a>
+An introduction to the basics of stochastic calculus, with an emphasis on different noise prescriptions and their behavior under the chain rule. We also discuss the Ito integral and importance of discretization, using numerics.
+
 <a href="https://amahadevan99.github.io/files/saw_jc_notes.pdf"> The self avoiding walk as a critical phenomenon [PDF].</a>
-The self avoiding walk is perhaps the simplest nontrivial model of a polymer in a solvent, but its mathematical properties are still not fully understood. Here we discuss a mapping between the self avoiding walk and a model of a magnet composed of n-component interacting spins where n is set to 0. This mapping allows to estimate scaling exponents of the self avoiding walk that amazingly agree with experiment.
+The self avoiding walk is perhaps the simplest nontrivial model of a polymer in a solvent, but its mathematical properties are still not fully understood. Here we discuss a mapping between the self avoiding walk and a model of a magnet composed of _n_-component interacting spins where _n_ is set to 0. This mapping allows to estimate scaling exponents of the self avoiding walk that amazingly agree with experiment.
 
 <a href="https://amahadevan99.github.io/files/gaussian_integrals.pdf"> Gaussian functional integrals [PDF].</a>
 We develop the framework to perform gaussian integrals in the limit of an infinite number of random variables, which is essential for doing field theory. Using this machinery, we explore the Hohenberg-Wagner-Mermin theorem, which states that systems with a continuous symmetry cannot spontaneously order at low temperatures.
