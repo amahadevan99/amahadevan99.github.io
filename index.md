@@ -1,5 +1,5 @@
-<a href="https://amahadevan99.github.io/files/bethe_ansatz.pdf"> Introduction to the Bethe ansatz [PDF].</a>
-The Bethe ansatz is a tool with applications throughout the theory of integrable systems, which is often presented in a rather technical fashion. Here we attempt to present its core ideas without assuming a lot of background, applied to the XXX Heisenberg spin chain, a solvable model of quantum magnetism.
+<a href="https://amahadevan99.github.io/files/bethe_ansatz.pdf"> What is the Bethe ansatz? [PDF].</a>
+The Bethe ansatz is a tool with applications throughout the theory of integrable systems, which is often presented in a rather technical fashion. Here we attempt to present its core ideas with various calculational details, applied to the XXX Heisenberg spin chain, a solvable model of quantum magnetism.
 
 <a href="https://amahadevan99.github.io/files/stoch_calc.pdf"> Introduction to stochastic calculus [PDF].</a>
 An introduction to the basics of stochastic calculus, with an emphasis on different noise prescriptions and their behavior under the chain rule. We also discuss the Ito integral and importance of discretization, using numerics.
