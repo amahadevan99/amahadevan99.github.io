@@ -1,5 +1,9 @@
+<a href="https://amahadevan99.github.io/files/epsilon_expansion.pdf"> The epsilon expansion [PDF].</a>
+Despite its success at predicting qualitative properties of transitions, mean field theory fails to account for spatial fluctuations of the order parameter in low dimensions, including the particularly significant case of 3 dimensions. Here we present the Wilson - Fisher calculation of 1972 that provides both quantitative and qualitative insight into critical phenomena below the upper critical dimension.
+
+
 <a href="https://amahadevan99.github.io/files/bethe_ansatz.pdf"> What is the Bethe ansatz? [PDF].</a>
-The Bethe ansatz is a tool with applications throughout the theory of integrable systems, which is often presented in a rather technical fashion. Here we attempt to present its core ideas with various calculational details, applied to the XXX Heisenberg spin chain, a solvable model of quantum magnetism.
+The Bethe ansatz is a tool with applications throughout the theory of integrable systems, which is often presented in a rather technical fashion. Here we attempt to present its core ideas with explicit calculation, applied to the XXX Heisenberg spin chain, a solvable model of quantum magnetism.
 
 <a href="https://amahadevan99.github.io/files/stoch_calc.pdf"> Introduction to stochastic calculus [PDF].</a>
 An introduction to the basics of stochastic calculus, with an emphasis on different noise prescriptions and their behavior under the chain rule. We also discuss the Ito integral and importance of discretization, using numerics.
