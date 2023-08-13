@@ -1,5 +1,5 @@
 <a href="https://amahadevan99.github.io/files/epsilon_expansion.pdf"> The epsilon expansion [PDF].</a>
-Despite its success at predicting qualitative properties of transitions, mean field theory fails to account for spatial fluctuations of the order parameter in low dimensions, including the particularly significant case of 3 dimensions. Here we present the Wilson - Fisher calculation of 1972 that provides both quantitative and qualitative insight into critical phenomena below the upper critical dimension.
+Despite its success at predicting qualitative properties of transitions, mean field theory fails to account for spatial fluctuations of the order parameter in low dimensions, including the particularly significant case of 3 dimensions. Here we present the Wilson-Fisher calculation of 1972 that provides both quantitative and qualitative insight into critical phenomena below the upper critical dimension.
 
 
 <a href="https://amahadevan99.github.io/files/bethe_ansatz.pdf"> What is the Bethe ansatz? [PDF].</a>
