@@ -1,27 +1,17 @@
 <a href="https://amahadevan99.github.io/files/epsilon_expansion.pdf"> The epsilon expansion [PDF].</a>
-Despite its success at predicting qualitative properties of transitions, mean field theory fails to account for spatial fluctuations of the order parameter in low dimensions, including the particularly significant case of 3 dimensions. Here we present the Wilson-Fisher calculation of 1972 that provides both quantitative and qualitative insight into critical phenomena below the upper critical dimension.
-
 
 <a href="https://amahadevan99.github.io/files/bethe_ansatz.pdf"> What is the Bethe ansatz? [PDF].</a>
-The Bethe ansatz is a tool with applications throughout the theory of integrable systems, which is often presented in a rather technical fashion. Here we attempt to present its core ideas with explicit calculation, applied to the XXX Heisenberg spin chain, a solvable model of quantum magnetism.
 
 <a href="https://amahadevan99.github.io/files/stoch_calc.pdf"> Introduction to stochastic calculus [PDF].</a>
-An introduction to the basics of stochastic calculus, with an emphasis on different noise prescriptions and their behavior under the chain rule. We also discuss the Ito integral and importance of discretization, using numerics.
 
 <a href="https://amahadevan99.github.io/files/saw_jc_notes.pdf"> The self avoiding walk as a critical phenomenon [PDF].</a>
-The self avoiding walk is perhaps the simplest nontrivial model of a polymer in a solvent, but its mathematical properties are still not fully understood. Here we discuss a mapping between the self avoiding walk and a model of a magnet composed of _n_-component interacting spins where _n_ is set to 0. This mapping allows to estimate scaling exponents of the self avoiding walk that amazingly agree with experiment.
 
 <a href="https://amahadevan99.github.io/files/gaussian_integrals.pdf"> Gaussian functional integrals [PDF].</a>
-We develop the framework to perform gaussian integrals in the limit of an infinite number of random variables, which is essential for doing field theory. Using this machinery, we explore the Hohenberg-Wagner-Mermin theorem, which states that systems with a continuous symmetry cannot spontaneously order at low temperatures.
 
 <a href="https://amahadevan99.github.io/files/neuro_jc.pdf"> Chaos in random neural networks [PDF].</a>
-How can we understand observed irregular patterns of electrical activity in the brain via analysis of toy models? Here we look at two classes of models that have been studied in this context, and provide a rough outline of the statistical physics-motivated methods of analyzing them.
 
 <a href="https://amahadevan99.github.io/files/marchenko_pastur.pdf"> The cavity method in random matrix theory [PDF].</a>
-The cavity method is an obscure name for asserting consistency between the statistical properties of large (particularly disorded) systems. Here we apply it to the theory of random matrices to calculate the eigenvalue distribution of two famous matrix ensembles.
 
 <a href="https://amahadevan99.github.io/files/pca_notes.pdf"> Principal component analysis and spike sorting [PDF].</a>
-A brief introduction to the ubiquitous PCA (principal component analysis) and its close relative the SVD (singular value decomposition). We present a toy application of PCA in the processing of electrophysiological data from _in silico_ neurons.
 
 <a href="https://amahadevan99.github.io/files/fpt_notes.pdf"> First passage times [PDF].</a>
-When does a random walker in one dimension return to the origin for the first time? Here we calculate the distribution of such times for a biased and unbiased random walker, and find that the mean first passage time diverges in the unbiased case!
