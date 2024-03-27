@@ -1,3 +1,3 @@
-# [Science notes](science.md)
+# [Notes](science.md)
 
 # [Music](music.md)
