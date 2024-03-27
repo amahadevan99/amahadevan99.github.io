@@ -1,3 +1,3 @@
-<a href="https://amahadevan99.github.io/science.md"> science </a>
+[Science notes](science.md)
 
-<a href="https://amahadevan99.github.io/music.md"> music </a>
+[Music](music.md)
