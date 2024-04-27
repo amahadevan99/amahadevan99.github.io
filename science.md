@@ -1,3 +1,5 @@
+<a href="https://amahadevan99.github.io/files/free_fermions.pdf"> Free fermions and spin chains [PDF]</a>
+
 <a href="https://amahadevan99.github.io/files/epsilon_expansion.pdf"> The epsilon expansion [PDF]</a>
 
 <a href="https://amahadevan99.github.io/files/bethe_ansatz.pdf"> What is the Bethe ansatz? [PDF]</a>
