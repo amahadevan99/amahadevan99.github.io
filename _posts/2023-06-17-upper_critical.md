@@ -71,4 +71,5 @@ Although, as we have seen, there is a somewhat systematic way to calculate the u
 
 ### References
 Chaikin and Lubensky: Principles of Condensed Matter Physics, Chapter 5
+
 Goldenfeld: Lectures on Phase Transitions and the Renormalization Group, Chapter 7
