@@ -18,7 +18,7 @@ Since we are interested in the $$L\to\infty$$ limit, it will be useful to thinki
 
 ![Here we enumerate the ways to percolate on a 2 by 2 grid](percolation_cartoon.png "ways to percolate from left to right")
 
-Consider a square lattice of size $$2^n\times 2^n$$. We can then impose a hierarchy of division of this lattice into blocks, with each block being split into $$4$$ blocks of the next-lowest size, arrayed in a $$2\times2$ fashion. This will continue all the way down until each block is a single site on the lattice. We will now find a way to relate the percolation probability at one scale to the scale directly below this one. Start with the smallest scale. The probability of each site being colored is $$p$$. Then the probability of a $$2\times2$$ block of these sites percolating from left to right is the sum of the probabilities of the different ways in which this can happen.
+Consider a square lattice of size $$2^n\times 2^n$$. We can then impose a hierarchy of division of this lattice into blocks, with each block being split into $$4$$ blocks of the next-lowest size, arrayed in a $$2\times2$$ fashion. This will continue all the way down until each block is a single site on the lattice. We will now find a way to relate the percolation probability at one scale to the scale directly below this one. Start with the smallest scale. The probability of each site being colored is $$p$$. Then the probability of a $$2\times2$$ block of these sites percolating from left to right is the sum of the probabilities of the different ways in which this can happen.
 Certainly if $$3$$ or more of the sites are colored, then the $$2\times 2$$ block percolates. If $$2$$ of the sites are colored, then we need these to be in line from left to right, which can happen in two different ways. Therefore the probability of the $$2\times 2$$ block percolating is
 
 $$ p' = f(p) = p^4 + 4 p^3(1-p) + 2p^2 (1-p)^2.$$
@@ -48,7 +48,7 @@ $$n \sim \frac{1}{\lambda}\log_2 (1/\delta p_0).$$
 
 The length scale by which we coarse grain in order for the system to look non-critical is therefore
 
-$$\xi \sim 2^n \sim \delta_p_0^{-1/\lambda}.$$
+$$\xi \sim 2^n \sim \delta p_0^{-1/\lambda}.$$
 
 Here we have identified the correlation length with this coarse-graining length scale needed in order for the system to look firmly in one phase or the other --- or equivalently --- for $$\delta p$$ to look $$O(1)$$. Therefore we have an estimate of $$\nu = 1/\lambda \approx 1.64$$. The exact result for $$2$$ dimensions is $$\nu = 4/3$$, so we are reasonably close.
 
