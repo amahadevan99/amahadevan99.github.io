@@ -17,7 +17,7 @@ In other words, for large lattices, there is a sharp transition between percolat
 Since we are interested in the $$L\to\infty$$ limit, it will be useful to thinking about coarse-graining a particular realization of the vertex coloring to ask about long-lengthscale properties of the lattice: in particular, whether it admits a percolation path from one side to the other. Consider the following approximate coarse graining plan:
 
 <figure>
-	<img src="https://amahadevan99.github.io/files/percolation_cartoon.png" alt="percolating paths">
+	<img src="https://amahadevan99.github.io/files/percolation_cartoon.png" alt="percolating paths" style="transform: scale(.6);">
 	<figcaption>Here we enumerate the ways to percolate from left to right on a 2 by 2 grid, where the sites are red if they can percolate.</figcaption>
 </figure>
 
