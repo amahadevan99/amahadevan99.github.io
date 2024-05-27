@@ -16,7 +16,10 @@ In other words, for large lattices, there is a sharp transition between percolat
 
 Since we are interested in the $$L\to\infty$$ limit, it will be useful to thinking about coarse-graining a particular realization of the vertex coloring to ask about long-lengthscale properties of the lattice: in particular, whether it admits a percolation path from one side to the other. Consider the following approximate coarse graining plan:
 
-![Here we enumerate the ways to percolate on a 2 by 2 grid](percolation_cartoon.png "ways to percolate from left to right")
+<figure>
+	<img src="percolation_cartoon.png" alt="percolating paths">
+	<figcaption>Here we enumerate the ways to percolate from left to right on a 2 by 2 grid, where the sites are red if they can percolate.</figcaption>
+</figure>
 
 Consider a square lattice of size $$2^n\times 2^n$$. We can then impose a hierarchy of division of this lattice into blocks, with each block being split into $$4$$ blocks of the next-lowest size, arrayed in a $$2\times2$$ fashion. This will continue all the way down until each block is a single site on the lattice. We will now find a way to relate the percolation probability at one scale to the scale directly below this one. Start with the smallest scale. The probability of each site being colored is $$p$$. Then the probability of a $$2\times2$$ block of these sites percolating from left to right is the sum of the probabilities of the different ways in which this can happen.
 Certainly if $$3$$ or more of the sites are colored, then the $$2\times 2$$ block percolates. If $$2$$ of the sites are colored, then we need these to be in line from left to right, which can happen in two different ways. Therefore the probability of the $$2\times 2$$ block percolating is
