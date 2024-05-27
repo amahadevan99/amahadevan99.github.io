@@ -17,7 +17,7 @@ In other words, for large lattices, there is a sharp transition between percolat
 Since we are interested in the $$L\to\infty$$ limit, it will be useful to thinking about coarse-graining a particular realization of the vertex coloring to ask about long-lengthscale properties of the lattice: in particular, whether it admits a percolation path from one side to the other. Consider the following approximate coarse graining plan:
 
 <figure>
-	<img src="percolation_cartoon.png" alt="percolating paths">
+	<img src="./percolation_cartoon.png" alt="percolating paths">
 	<figcaption>Here we enumerate the ways to percolate from left to right on a 2 by 2 grid, where the sites are red if they can percolate.</figcaption>
 </figure>
 
@@ -30,7 +30,10 @@ Therefore we have devised an approximate relation between the probability of a p
 
 Now that we have a map between percolation probabilities from one scale to another, we can iterate this map to find the percolation probability of an infinite lattice --- this probability will correspond to a fixed point of the map $$f(f(\cdots f(p)))$$. One can see by inspection that $$p=1$$ and $$p=0$$ are fixed points of the map, i.e. $$f(p)=p$$. These are _stable_ fixed points of the map, in the sense that if $$p$$ is perturbed slightly away from them ---though between $$0$$ and $$1$$ --- it will return to these fixed points). What are the other two fixed points? We can solve the polynomial equation $$f(p)=p$$ to find that they are $$\frac{1}{2}(\pm\sqrt 5 -1)$$. One of these is negative --- and therefore inaccessible starting from an initial $$p$$ which is positive. The other is $$p_c= \frac{1}{2} (\sqrt 5-1)\approx 0.62$$. This is an _unstable_ fixed point of the map, in sense that starting at $$p=p_c+\delta p$$ and iterating the map will take one to $$1$$ or $$0$$ depending on whether $$\delta p$$ is positive or negative. Note that this critical probability of $$0.62$$ is remarkably close to the value of $$0.59$$ found much more carefully for numerics on huge system sizes.
 
-![Diagram of the flows of the percolation probability with coarse-graining iteration](percolation_flows.png "RG flows of percolation probability")
+<figure>
+	<img src="./percolation_flows.png" alt="percolation probability flows">
+	<figcaption>Flows of the percolation probability under the coarse-graining map, starting from different points between 0 and 1.</figcaption>
+</figure>
 
 However, we are now equipped to understand qualitatively the phase diagram of percolation, through an approximate coarse-graining process. We see that for $$p<0.62$$, zooming out makes the probability of percolating smaller, and for $$p>0.62$$ the probability of percolating increases. Right at the critical point of our coarse-graining map, the system looks self-similar and the percolation probability is independent of length scale, but on either side of this critical point, the system "flows" to either an effective $$p=0$$ fixed point, below the transition, or a $$p=1$$ fixed point above the transition. The character of the flows right around the critical point can allow us to access a critical exponent, which we will now do.
 
