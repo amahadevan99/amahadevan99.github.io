@@ -1,5 +1,5 @@
 ---
-title: "Random Matrices and Response Functions"
+title: "Random matrices and response functions"
 date: 2024-06-28
 ---
 

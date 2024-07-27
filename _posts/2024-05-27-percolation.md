@@ -1,5 +1,5 @@
 ---
-title: "Percolation and Renormalization Group"
+title: "Percolation and renormalization group"
 date: 2024-05-27
 ---
 
@@ -40,7 +40,7 @@ We are now equipped to understand qualitatively the phase diagram of percolation
 The critical exponent that we will look at is $$\nu$$, the correlation length exponent. The correlation length, denoted $$\xi$$, is expected to diverge in the vicinity of a second order transition as $$\xi \sim |p-p_c|^{-\nu}$$, where the exponent $$\nu$$ (unlike, e.g. the critical probability $$p_c$$) is a _universal_ quantity that depends only on the spatial dimension of the lattice, and does not depend on the lattice type or the particular percolation model (bond, site. etc).
 What does the correlation length _mean_ for percolation? $$\xi$$ tells us what the characteristic length scale of the system. One way to think about it is as the linear extent of the largest finite cluster of colored sites in the lattice. This is finite below the percolation threshold, and diverges as an infinite cluster emerges at the transition. It is then finite above the transition again, as there is a single infinite cluster and all other clusters are finite. Therefore if one looks at the probability that two sites separated by distance $$r$$ are both in the largest connected cluster, this probability decays at big $$r$$ as $$e^{-r/\xi} + f^2$$, where $$f$$ is the fraction of sites occupied by the biggest connected cluster. Another way to think about $$\xi$$ (which may be more relevant in this context) is as the length scale over which one must view the system before the system looks definitively in one phase or the other (percolating or non-percolating). Since the clusters in the system are of typical size $$\xi$$, one must zoom out to a lengthscale $$\xi$$ in order to truly assess which phase the system is in.
 
-With this in mind, how can we estime $$\nu$$ from our renormalization-group map $$f(p)$$? Imagine we start off-criticality, i.e. $$p = p_c +\delta p$$ where $$p_c = \frac{1}{2}\sqrt(5)-1$$. Then, after one application of $$f(p)$$, we have (via a linearization of our map for small $$\delta p$$)
+With this in mind, how can we estimate $$\nu$$ from our renormalization-group map $$f(p)$$? Imagine we start off-criticality, i.e. $$p = p_c +\delta p$$ where $$p_c = \frac{1}{2}\sqrt(5)-1$$. Then, after one application of $$f(p)$$, we have (via a linearization of our map for small $$\delta p$$)
 
 $$f(p_c+\delta p) -p_c \approx 2 p_c^2  - p_c^4 -p_c - 4(p_c^3-p_c)\delta p = 2(3-\sqrt 5)\delta p.$$
 
