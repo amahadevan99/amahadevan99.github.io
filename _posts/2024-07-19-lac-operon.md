@@ -55,11 +55,7 @@ In equilibrium, what is the concentration of the $$EA$$ complex, assuming that w
 
 $$ \frac{d[EA]}{dt} = \alpha [E][A] - \beta [EA].$$
 
-Therefore in steady state, this time derivative vanishes and we have $$[EA] = \frac{\alpha}{\beta}[E][A]$$. There are, however three unknowns in steady state: $$[E]$$, $$[A]$$ and $$[EA]$$ --- so we need another two equations to be able to solve for these. These two equations come from conservation of the total number of enzyme and substrate molecules separately, and give us $$[E]+[EA]=e$$ and $$[A]+[EA]=a$$. One can then solve these three equations to get that
-
-$$ [EA] = \frac{1}{2}\left(e+a+\frac{\beta}{\alpha} - \sqrt{(e+a+\frac{\beta}{\alpha})^2-4ea}\right).$$
-
-However, we can simplify things if we assume that the enzyme is the limiting reagent---then $$[A]\approx a$$ since amount of the substrate that is bound in the complex is negligible. Then our equations become $$[EA] = \frac{\alpha}{\beta}[E]a$$ and $$[E]+[EA]=e$$, which have solution
+Therefore in steady state, this time derivative vanishes and we have $$[EA] = \frac{\alpha}{\beta}[E][A]$$. There are, however three unknowns in steady state: $$[E]$$, $$[A]$$ and $$[EA]$$ --- so we need another two equations to be able to solve for these. These two equations come from conservation of the total number of enzyme and substrate molecules separately, and give us $$[E]+[EA]=e$$ and $$[A]+[EA]=a$$. One can then solve these three equations, but the solution is a bit messy. We can simplify things if we assume that the enzyme is the limiting reagent---then $$[A]\approx a$$ since amount of the substrate that is bound in the complex is negligible. Then our equations become $$[EA] = \frac{\alpha}{\beta}[E]a$$ and $$[E]+[EA]=e$$, which have solution
 
 $$ [EA] = \frac{ea}{\beta/\alpha+a}.$$
 
@@ -74,7 +70,7 @@ Returning back to our model for the regulation of the _lac_ operon, we can first
 
 Now we want to guess a form for $$f(A)$$, which is proportional to the rate of binding between RNA polymerase and the _unrepressed_ promoter. Recall that promoter can only be repressed by repressor molecules that are unbound by allolactose. Assuming that allolactose is more plentiful than the receptors, the concentration of such unbound repressor molecules (using Michaelis Menten) is $$R = \frac{rK_2}{A+K_2}$$ where $$r$$ is the overall concentration of repressors. The concentration of unbound promoters is, by the same logic, $$P = p\frac{K_3}{K_3+R}$$.
 
-We can therefore approximate the concentration of unbound promoters as $$\frac{p(A+K_2)}{A+K_2+rK_2/K_3}$$. The details of this expression are not important---more important is that, as a function of $$A$$, it is a saturating function with a small $$y$$-intercept, for $$r\gg K_3$$. The physical meaning of the small $$y$$-intercept is that when there is no allolactose, the repressors bind to most of the promoter regions. Note that we can roughly approximate $$f(A)$$ as $$\frac{pA}{A+K}+r_0$$, where $$r_0$ is this basal transcription rate, and the first term captures the dependence on allolactose concentration.
+We can therefore approximate the concentration of unbound promoters as $$\frac{p(A+K_2)}{A+K_2+rK_2/K_3}$$. The details of this expression are not important---more important is that, as a function of $$A$$, it is a saturating function with a small $$y$$-intercept, for $$r\gg K_3$$. The physical meaning of the small $$y$$-intercept is that when there is no allolactose, the repressors bind to most of the promoter regions. Note that we can roughly approximate $$f(A)$$ as $$\frac{pA}{A+K}+r_0$$, where $$r_0$$ is this basal transcription rate, and the first term captures the dependence on allolactose concentration.
 
 We now have a set of differential equations that describe the levels of _lacZ_ and allolactose in the cell. Parameterizing unknown rates by $$\mu$$ and $$\nu$$, we have 
 
