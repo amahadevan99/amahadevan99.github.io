@@ -1,6 +1,6 @@
 ---
 title: "Gene regulation and the lac operon"
-date: 2024-8-3
+date: 2024-08-03
 ---
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
