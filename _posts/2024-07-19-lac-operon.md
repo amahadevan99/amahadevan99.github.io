@@ -116,4 +116,6 @@ Mitchell Lewis, [A Tale of two Repressors](https://www.ncbi.nlm.nih.gov/pmc/arti
 
 [openstax](https://openstax.org/books/biology/pages/16-2-prokaryotic-gene-regulation)
 
+[Santillán and Mackey](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2504340/)
+
 [Matthew Macauley slides](http://www.math.clemson.edu/~macaule/classes/f16_math4500/slides/f16_math4500_lac-operon-ode_handout.pdf)
