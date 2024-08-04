@@ -29,7 +29,7 @@ However, in addition to being transcribed in the presence of lactose, the _lac_ 
 
 <figure>
 	<img src="https://amahadevan99.github.io/files/lac_operon_cartoon.png" alt="lac_operon_cartoon">
-	<figcaption>The most probable configuration of the _lac_operon is shown for each of the four possible extreme combinations of lactose and glucose levels, each of which can be high or low. When there is no repressor bound to the operator, transcription can occur, but its rate is enhanced by the cAMP-CAP complex binding upstream.</figcaption>
+	<figcaption>The most probable configuration of the _lac_operon is shown for each of the four possible extreme combinations of lactose and glucose levels, each of which can be high or low. When there is no repressor bound to the operator, transcription can occur, but its rate is enhanced by the cAMP-CAP complex binding upstream. Figure adapted from [openstax](https://openstax.org/books/biology/pages/16-2-prokaryotic-gene-regulation)</figcaption>
 </figure>
 
 
@@ -113,6 +113,11 @@ It is possible to obtain similar types of behavior with _negative_ feedback, whi
 
 ## References and further reading
 Daniel Fisher's cellular biophysics class
+
 Mitchell Lewis, a Tale of two Repressors
+
 [Khan academy](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/regulation-of-gene-expression-and-cell-specialization/a/the-lac-operon)
+
+[openstax](https://openstax.org/books/biology/pages/16-2-prokaryotic-gene-regulation)
+
 [these slides](http://www.math.clemson.edu/~macaule/classes/f16_math4500/slides/f16_math4500_lac-operon-ode_handout.pdf)
