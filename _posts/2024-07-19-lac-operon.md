@@ -88,13 +88,13 @@ We can analyze the behavior of our differential equation model by looking at the
 	<figcaption>The nullclines in the $A$-$Z$ plane change as a function of lactose concentration $l$, and their intersection tells us how expression levels of lacZ change with $l$.</figcaption>
 </figure>
 
-Now, how does glucose come into the picture? Recall that glucose decreases the prevalence of the cAMP-CAP complex, which itself encourages transcription. To capture this effect we can add a term proportional to $$\frac{K}{K+g}$$ to $$\dot A$$, where $$g$$ is glucose concentration. If the slope of the $$\dot A=0$$ nullcline for large $$l$$ and large $$g$$ is still larger than the slope of the $$\dot Z=0$$ nullcline at $$A=0$$, then only by reducing $$g$$ can we increase the $$$A$$-intercept of the $$\dot A=0$$ nullcline and acheive high levels of _lacZ_ expression.
+Now, how does glucose come into the picture? Recall that glucose decreases the prevalence of the cAMP-CAP complex, which itself encourages transcription. To capture this effect we can add a term proportional to $$\frac{K}{K+g}$$ to $$\dot A$$, where $$g$$ is glucose concentration. If the slope of the $$\dot A=0$$ nullcline for large $$l$$ and large $$g$$ is still larger than the slope of the $$\dot Z=0$$ nullcline at $$A=0$$, then only by reducing $$g$$ can we increase the $$A$$-intercept of the $$\dot A=0$$ nullcline and acheive high levels of _lacZ_ expression.
 
 
 ### Bistability
 
 <figure>
-	<img src="https://amahadevan99.github.io/files/lac_operon_binostable.png" alt="lac_operon_binostable">
+	<img src="https://amahadevan99.github.io/files/lac_operon_bistable.png" alt="lac_operon_bistable">
 	<figcaption>Cooperativity in the binding of allolactose to the repressor enables bistability.</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ It is possible to obtain similar types of behavior with _negative_ feedback, whi
 ## References and further reading
 Daniel Fisher's cellular biophysics class
 
-Mitchell Lewis, a Tale of two Repressors
+Mitchell Lewis, [A Tale of two Repressors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/)
 
 [Khan academy](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/regulation-of-gene-expression-and-cell-specialization/a/the-lac-operon)
 
