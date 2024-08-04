@@ -1,5 +1,5 @@
 ---
-title: "Gene regulation and the _lac_ operon"
+title: "Gene regulation and the lac operon"
 date: 2024-7-19
 ---
 
@@ -29,7 +29,7 @@ However, in addition to being transcribed in the presence of lactose, the _lac_ 
 
 <figure>
 	<img src="https://amahadevan99.github.io/files/lac_operon_cartoon.png" alt="lac_operon_cartoon">
-	<figcaption>The most probable configuration of the _lac_operon is shown for each of the four possible extreme combinations of lactose and glucose levels, each of which can be high or low. When there is no repressor bound to the operator, transcription can occur, but its rate is enhanced by the cAMP-CAP complex binding upstream. Figure adapted from [openstax](https://openstax.org/books/biology/pages/16-2-prokaryotic-gene-regulation)</figcaption>
+	<figcaption>The most probable configuration of the _lac_operon is shown for each of the four possible extreme combinations of lactose and glucose levels, each of which can be high or low. When there is no repressor bound to the operator, transcription can occur, but its rate is enhanced by the cAMP-CAP complex binding upstream. Figure adapted from openstax (see References below).</figcaption>
 </figure>
 
 
@@ -81,11 +81,11 @@ $$ \dot A = -\gamma A + \nu \frac{Zl}{l+K_1}$$
 
 ### Analysis
 
-We can analyze the behavior of our differential equation model by looking at the _nullclines_ of our system: the lines in the $$Z$$-$$A$$ plane along which the $$\dot Z$$ and $$\dot A$$ vanish. Fixed points of the dynamics correspond to intersections of these nullclines, since both $$\dot Z$$ and $$\dot A$$ are zero at a fixed point. In the figure below we draw the nullclines. Note that increasing lactose concentration $$l$$ causes the $$\dot A=0$$ nullcline to tilt down. We can see that for small $$r_0$$, the $$Z$$ at the fixed point increases slowly as a function of $$l$$. However, due to the shape of $$f(A)$$, when the slope of the $$\dot A=0$$ nullcline crosses through the slope of the $$\dot Z=0$$ nullcline at $$A=0$$, the $$Z$$ at the fixed point (represented by the yellow circle) increases drastically. This is precisely the behavior that we sought to understand with our mathematical model: the level of _lacZ_ increases sharply as a function of lactose, rather than gradually. This is a consequence of positive feedback.
+We can analyze the behavior of our differential equation model by looking at the _nullclines_ of our system: the lines in the $$A$$-$$Z$$ plane along which the $$\dot Z$$ and $$\dot A$$ vanish. Fixed points of the dynamics correspond to intersections of these nullclines, since both $$\dot Z$$ and $$\dot A$$ are zero at a fixed point. In the figure below we draw the nullclines. Note that increasing lactose concentration $$l$$ causes the $$\dot A=0$$ nullcline to tilt down. We can see that for small $$r_0$$, the $$Z$$ at the fixed point increases slowly as a function of $$l$$. However, due to the shape of $$f(A)$$, when the slope of the $$\dot A=0$$ nullcline crosses through the slope of the $$\dot Z=0$$ nullcline at $$A=0$$, the $$Z$$ at the fixed point (represented by the yellow circle) increases drastically. This is precisely the behavior that we sought to understand with our mathematical model: the level of _lacZ_ increases sharply as a function of lactose, rather than gradually. This is a consequence of positive feedback.
 
 <figure>
 	<img src="https://amahadevan99.github.io/files/lac_operon_monostable.png" alt="lac_operon_monostable">
-	<figcaption>The nullclines in the $$A$$-$$Z$$ plane change as a function of lactose concentration $$l$$, and their intersection tells us how expression levels of _lacZ_ change with $$l$$.</figcaption>
+	<figcaption>The nullclines in the $A$-$Z$ plane change as a function of lactose concentration $l$, and their intersection tells us how expression levels of lacZ change with $l$.</figcaption>
 </figure>
 
 Now, how does glucose come into the picture? Recall that glucose decreases the prevalence of the cAMP-CAP complex, which itself encourages transcription. To capture this effect we can add a term proportional to $$\frac{K}{K+g}$$ to $$\dot A$$, where $$g$$ is glucose concentration. If the slope of the $$\dot A=0$$ nullcline for large $$l$$ and large $$g$$ is still larger than the slope of the $$\dot Z=0$$ nullcline at $$A=0$$, then only by reducing $$g$$ can we increase the $$$A$$-intercept of the $$\dot A=0$$ nullcline and acheive high levels of _lacZ_ expression.
