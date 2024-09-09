@@ -1,4 +1,4 @@
-## Composition
+_Composition_
 
 <a href="https://amahadevan99.github.io/files/website_music/cathedral_peak.pdf"> [score] Cathedral Peak</a>
 
@@ -6,7 +6,7 @@
 
 <a href="https://www.youtube.com/watch?v=HJV9wWiDl7w"> [video] City Jungle</a>
 
-## Transcription
+_Transcription_
 
 <a href="https://amahadevan99.github.io/files/website_music/freddie_freeloader.pdf"> Freddie Freeloader</a>
 
