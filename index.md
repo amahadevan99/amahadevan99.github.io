@@ -1,4 +1,6 @@
-<span style="font-size:26px;"> Notes</span>
+I am a graduate student at Stanford interested in statistical physics and biophysics. I also love music of all kinds.
+
+<span style="font-size:26px;">Notes</span>
 
 Some of my notes on various topics that I have tried to understand better:
 
@@ -22,6 +24,6 @@ Some of my notes on various topics that I have tried to understand better:
 
 <a href="https://amahadevan99.github.io/files/fpt_notes.pdf"> First passage times [PDF]</a>
 
-<span style="font-size:26px;"> [Music](music.md)</span>
+<span style="font-size:26px;">Music</span>
 
-Compositions and transcriptions
+[Compositions and transcriptions](music.md)
