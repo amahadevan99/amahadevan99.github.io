@@ -1,4 +1,4 @@
-I am a graduate student at Stanford interested in statistical physics and biophysics. I also love music of all kinds.
+I am a graduate student at Stanford working on statistical physics and biophysics. I also love music of all kinds.
 
 <span style="font-size:26px;">Notes</span>
 
