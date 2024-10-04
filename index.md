@@ -1,4 +1,6 @@
-Here are some of my notes on various topics that I have tried to understand better.
+<span style="font-size:26px;"> Notes</span>
+
+Some of my notes on various topics that I have tried to understand better:
 
 <a href="https://amahadevan99.github.io/files/free_fermions.pdf"> Free fermions and spin chains [PDF]</a>
 
@@ -21,3 +23,5 @@ Here are some of my notes on various topics that I have tried to understand bett
 <a href="https://amahadevan99.github.io/files/fpt_notes.pdf"> First passage times [PDF]</a>
 
 <span style="font-size:26px;"> [Music](music.md)</span>
+
+Compositions and transcriptions
