@@ -4,6 +4,8 @@ _Composition_
 
 <a href="https://amahadevan99.github.io/files/website_music/cathedral_peak_II.pdf"> [score] Cathedral Peak II</a>
 
+<a href="https://amahadevan99.github.io/files/website_music/cathedral_peak_III.pdf"> [score] Cathedral Peak III</a>
+
 <a href="https://www.youtube.com/watch?v=EyAY5vU0z98"> [video] Light Bright</a>
 
 <a href="https://www.youtube.com/watch?v=HJV9wWiDl7w"> [video] City Jungle</a>
