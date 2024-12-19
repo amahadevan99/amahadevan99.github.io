@@ -1,5 +1,3 @@
-_Notes_
-
 Some of my notes on various topics that I have tried to understand better:
 
 <a href="https://amahadevan99.github.io/files/free_fermions.pdf"> Free fermions and spin chains [PDF]</a>
