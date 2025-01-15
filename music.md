@@ -2,7 +2,7 @@ _Composition_
 
 <a href="https://amahadevan99.github.io/files/website_music/cathedral_peak_full.pdf"> [score] Cathedral Peak</a>
 
-<a href="https://www.youtube.com/watch?v=eCG6svi2Ltk"> [recording] Cathedral Peak</a>
+<a href="https://www.youtube.com/watch?v=UhhYJ2zSoyw"> [recording] Cathedral Peak</a>
 
 <a href="https://www.youtube.com/watch?v=EyAY5vU0z98"> [recording] Light Bright</a>
 
