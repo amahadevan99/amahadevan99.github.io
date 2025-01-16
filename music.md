@@ -1,10 +1,12 @@
 _Composition_
 
-<a href="https://www.youtube.com/watch?v=UhhYJ2zSoyw"> [recording]</a> <a href="https://amahadevan99.github.io/files/website_music/cathedral_peak_full.pdf"> [score]</a> Cathedral Peak
+<a href="https://amahadevan99.github.io/files/website_music/rubus_violin_viola.pdf"> [score]</a> Rubus (for violin and viola)
 
-<a href="https://www.youtube.com/watch?v=EyAY5vU0z98"> [recording] Light Bright</a>
+<a href="https://www.youtube.com/watch?v=UhhYJ2zSoyw"> [recording]</a> <a href="https://amahadevan99.github.io/files/website_music/cathedral_peak_full.pdf"> [score]</a> Cathedral Peak (for piano)
 
-<a href="https://www.youtube.com/watch?v=HJV9wWiDl7w"> [recording] City Jungle</a>
+<a href="https://www.youtube.com/watch?v=EyAY5vU0z98"> [recording]</a> Light Bright
+
+<a href="https://www.youtube.com/watch?v=HJV9wWiDl7w"> [recording]</a> City Jungle
 
 _Transcription_
 
