@@ -1,4 +1,12 @@
-_Composition_
+---
+layout: default
+title: Music
+permalink: /music/
+---
+
+# Music
+
+## Composition
 
 <a href="https://amahadevan99.github.io/files/website_music/violin_duos_all.pdf"> [score]</a> Six Duos (for two violins)
 
@@ -10,12 +18,13 @@ _Composition_
 
 <a href="https://www.youtube.com/watch?v=HJV9wWiDl7w"> [recording]</a> City Jungle
 
-_Transcription_
+## Transcriptions
+Some transcriptions of famous jazz solos.
 
-<a href="https://amahadevan99.github.io/files/website_music/freddie_freeloader.pdf"> Freddie Freeloader</a>
+<a href="https://amahadevan99.github.io/files/website_music/freddie_freeloader.pdf"> Freddie Freeloader</a> (Wynton Kelly)
 
-<a href="https://amahadevan99.github.io/files/website_music/giant_steps.pdf"> Giant Steps</a>
+<a href="https://amahadevan99.github.io/files/website_music/giant_steps.pdf"> Giant Steps</a> (John Coltrane)
 
-<a href="https://amahadevan99.github.io/files/website_music/confirmation.pdf"> Confirmation</a>
+<a href="https://amahadevan99.github.io/files/website_music/confirmation.pdf"> Confirmation</a> (Charlie Parker)
 
-<a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a>
+<a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a> (Charlie Parker)
