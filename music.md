@@ -19,7 +19,7 @@ permalink: /music/
 <a href="https://www.youtube.com/watch?v=HJV9wWiDl7w"> [recording]</a> City Jungle
 
 ## Transcriptions
-Some transcriptions of famous jazz solos.
+Some transcriptions of solos and tunes.
 
 <a href="https://amahadevan99.github.io/files/website_music/freddie_freeloader.pdf"> Freddie Freeloader</a> (Wynton Kelly)
 
@@ -28,3 +28,8 @@ Some transcriptions of famous jazz solos.
 <a href="https://amahadevan99.github.io/files/website_music/confirmation.pdf"> Confirmation</a> (Charlie Parker)
 
 <a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a> (Charlie Parker)
+
+<a href="https://amahadevan99.github.io/files/website_music/sleigh_ride.pdf"> Sleigh Ride</a> (Leroy Anderson)
+
+<a href="https://amahadevan99.github.io/files/website_music/social_call.pdf"> Social Call</a> (Jon Hendricks & Gigi Gryce)
+
