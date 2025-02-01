@@ -28,7 +28,7 @@ In order to accomplish this behavior, a system has evolved where the _default_ s
 However, in addition to being transcribed in the presence of lactose, the _lac_ operon is repressed in the presence of glucose. This repression is controlled by a signaling molecule called cAMP, which varies inversely with glucose concentration in the cell---it essentially indicates hunger for glucose. When cAMP concentrations are high, the cAMP molecules form a complex with a molecule called CAP, and bind upstream of the promoter, encouraging transcription. Conversely when glucose is high there is little cAMP in the cell, and so transcription of the _lac_ operon is reduced, because the cAMP-CAP complex does not get created and upregulate transcription.
 
 <figure>
-	<img src="https://amahadevan99.github.io/files/lac_operon_cartoon.png" alt="lac_operon_cartoon">
+	<img src="https://amahadevan99.github.io/files/images/lac_operon_cartoon.png" alt="lac_operon_cartoon">
 	<figcaption>The most probable configuration of the _lac_operon is shown for each of the four possible extreme combinations of lactose and glucose levels, each of which can be high or low. When there is no repressor bound to the operator, transcription can occur, but its rate is enhanced by the cAMP-CAP complex binding upstream. Figure adapted from openstax (see References below).</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ $$ \dot A = -\gamma A + \nu \frac{Zl}{l+K_1}$$
 We can analyze the behavior of our differential equation model by looking at the _nullclines_ of our system: the lines in the $$A$$-$$Z$$ plane along which the $$\dot Z$$ and $$\dot A$$ vanish. Fixed points of the dynamics correspond to intersections of these nullclines, since both $$\dot Z$$ and $$\dot A$$ are zero at a fixed point. In the figure below we draw the nullclines. Note that increasing lactose concentration $$l$$ causes the $$\dot A=0$$ nullcline to tilt down. We can see that for small $$r_0$$, the $$Z$$ at the fixed point increases slowly as a function of $$l$$. However, due to the shape of $$f(A)$$, when the slope of the $$\dot A=0$$ nullcline crosses through the slope of the $$\dot Z=0$$ nullcline at $$A=0$$, the $$Z$$ at the fixed point (represented by the yellow circle) increases drastically. This is precisely the behavior that we sought to understand with our mathematical model: the level of _lacZ_ increases sharply as a function of lactose, rather than gradually. This is a consequence of positive feedback.
 
 <figure>
-	<img src="https://amahadevan99.github.io/files/lac_operon_monostable.png" alt="lac_operon_monostable">
+	<img src="https://amahadevan99.github.io/files/images/lac_operon_monostable.png" alt="lac_operon_monostable">
 	<figcaption>The nullclines in the $A$-$Z$ plane change as a function of lactose concentration $l$, and their intersection tells us how expression levels of lacZ change with $l$.</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Now, how does glucose come into the picture? Recall that glucose decreases the p
 ### Bistability
 
 <figure>
-	<img src="https://amahadevan99.github.io/files/lac_operon_bistable.png" alt="lac_operon_bistable">
+	<img src="https://amahadevan99.github.io/files/images/lac_operon_bistable.png" alt="lac_operon_bistable">
 	<figcaption>Cooperativity in the binding of allolactose to the repressor enables bistability.</figcaption>
 </figure>
 

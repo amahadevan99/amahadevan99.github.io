@@ -33,3 +33,4 @@ Some transcriptions of solos and tunes.
 
 <a href="https://amahadevan99.github.io/files/website_music/social_call.pdf"> Social Call</a> (Jon Hendricks & Gigi Gryce)
 
+<a href="https://amahadevan99.github.io/files/website_music/everything_happens_to_me.pdf"> Everything Happens To Me</a> (Matt Dennis & Tom Adair)
