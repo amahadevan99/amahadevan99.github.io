@@ -18,16 +18,15 @@ permalink: /music/
 
 <a href="https://www.youtube.com/watch?v=HJV9wWiDl7w"> [recording]</a> City Jungle
 
-## Transcriptions
-Some transcriptions of solos and tunes.
+## Transcriptions & Lead Sheets
 
-<a href="https://amahadevan99.github.io/files/website_music/freddie_freeloader.pdf"> Freddie Freeloader</a> (Wynton Kelly)
+<a href="https://amahadevan99.github.io/files/website_music/freddie_freeloader.pdf"> Freddie Freeloader</a> (Miles Davis, solo by Wynton Kelly)
 
 <a href="https://amahadevan99.github.io/files/website_music/giant_steps.pdf"> Giant Steps</a> (John Coltrane)
 
 <a href="https://amahadevan99.github.io/files/website_music/confirmation.pdf"> Confirmation</a> (Charlie Parker)
 
-<a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a> (Charlie Parker)
+<a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a> (Ray Noble, solo by Charlie Parker)
 
 <a href="https://amahadevan99.github.io/files/website_music/sleigh_ride.pdf"> Sleigh Ride</a> (Leroy Anderson)
 
