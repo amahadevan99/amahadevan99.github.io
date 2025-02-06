@@ -28,7 +28,7 @@ permalink: /music/
 
 <a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a> (Ray Noble, solo by Charlie Parker)
 
-<a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> After You've Gone</a> (Turner Layton, solo by Patrick Bartley)
+<a href="https://amahadevan99.github.io/files/website_music/after_youve_gone.pdf"> After You've Gone</a> (Turner Layton, solo by Patrick Bartley)
 
 <a href="https://amahadevan99.github.io/files/website_music/sleigh_ride.pdf"> Sleigh Ride</a> (Leroy Anderson)
 
