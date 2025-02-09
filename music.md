@@ -8,7 +8,7 @@ permalink: /music/
 
 ## Composition
 
-<a href="https://amahadevan99.github.io/files/website_music/violin_duos_all.pdf"> [score]</a> Six Duos (for two violins)
+<a href="https://www.youtube.com/watch?v=CZPlXW0v9q8"> [recording]</a> <a href="https://amahadevan99.github.io/files/website_music/violin_duos_all.pdf"> [score]</a> Six Duos (for two violins)
 
 <a href="https://amahadevan99.github.io/files/website_music/rubus_violin_viola.pdf"> [score]</a> Rubus (for violin and viola)
 
