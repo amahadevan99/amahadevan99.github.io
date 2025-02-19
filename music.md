@@ -32,8 +32,12 @@ permalink: /music/
 
 <a href="https://amahadevan99.github.io/files/website_music/sleigh_ride.pdf"> Sleigh Ride</a> (Leroy Anderson)
 
-<a href="https://amahadevan99.github.io/files/website_music/social_call.pdf"> Social Call</a> (Jon Hendricks & Gigi Gryce)
+<a href="https://amahadevan99.github.io/files/website_music/social_call.pdf"> Social Call</a> (Gigi Gryce)
 
-<a href="https://amahadevan99.github.io/files/website_music/everything_happens_to_me.pdf"> Everything Happens To Me</a> (Matt Dennis & Tom Adair)
+<a href="https://amahadevan99.github.io/files/website_music/everything_happens_to_me.pdf"> Everything Happens To Me</a> (Tom Adair)
 
 <a href="https://amahadevan99.github.io/files/website_music/softly_morning_sunrise.pdf"> Softly as in a Morning Sunrise</a> (Sigmund Romberg)
+
+<a href="https://amahadevan99.github.io/files/website_music/old_fashioned.pdf"> I'm Old Fashioned</a> (Jerome Kern)
+
+<a href="https://amahadevan99.github.io/files/website_music/green_dolphin_st.pdf"> On Green Dolphin Street</a> (Bronislaw Kaper)
