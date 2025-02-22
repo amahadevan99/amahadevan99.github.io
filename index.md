@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-I am a graduate student at Stanford working in biological and statistical physics, and I love music.
+I am a graduate student at Stanford working on biological/statistical physics and music.
 
 <span style="font-size:26px;">[Blog](blog.md)</span>
 
