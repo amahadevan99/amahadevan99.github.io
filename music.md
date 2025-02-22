@@ -7,6 +7,7 @@ permalink: /music/
 # Music
 
 ## Composition
+<a href="https://amahadevan99.github.io/files/website_music/glass_stains.pdf"> [score]</a> Glass Stains (for piano and violin)
 
 <a href="https://www.youtube.com/watch?v=CZPlXW0v9q8"> [recording]</a> <a href="https://amahadevan99.github.io/files/website_music/violin_duos_all.pdf"> [score]</a> Six Duos (for two violins)
 
