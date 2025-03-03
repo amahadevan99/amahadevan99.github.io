@@ -11,3 +11,5 @@ I am a graduate student at Stanford working on biological/statistical physics an
 <span style="font-size:26px;">[Notes](notes.md)</span>
 
 <span style="font-size:26px;">[Music](music.md)</span>
+
+<span style="font-size:26px;">[Miscellaneous](miscellaneous.md)</span>
