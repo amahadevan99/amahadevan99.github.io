@@ -33,3 +33,5 @@ permalink: /miscellaneous/
 <a href="https://amahadevan99.github.io/files/website_music/if_this_isnt_love.pdf"> If This Isn't Love</a> (Burton Lane)
 
 <a href="https://amahadevan99.github.io/files/website_music/i_love_you.pdf"> I Love You</a> (Cole Porter)
+
+<a href="https://amahadevan99.github.io/files/website_music/beatrice.pdf"> Beatrice</a> (Sam Rivers)
