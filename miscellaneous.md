@@ -35,3 +35,7 @@ permalink: /miscellaneous/
 <a href="https://amahadevan99.github.io/files/website_music/i_love_you.pdf"> I Love You</a> (Cole Porter)
 
 <a href="https://amahadevan99.github.io/files/website_music/beatrice.pdf"> Beatrice</a> (Sam Rivers)
+
+<a href="https://amahadevan99.github.io/files/website_music/strasbourg_st_denis.pdf"> Strasbourg / St. Denis</a> (Roy Hargrove)
+
+<a href="https://amahadevan99.github.io/files/website_music/just_friends.pdf"> Just Friends</a> (John Klenner)
