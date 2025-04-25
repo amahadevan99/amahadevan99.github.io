@@ -40,4 +40,6 @@ permalink: /miscellaneous/
 
 <a href="https://amahadevan99.github.io/files/website_music/just_friends.pdf"> Just Friends</a> (John Klenner)
 
-<a href="https://amahadevan99.github.io/files/website_music/round_midnight.pdf"> 'Round Midnight'</a> (Thelonius Monk)
+<a href="https://amahadevan99.github.io/files/website_music/round_midnight.pdf"> 'Round Midnight</a> (Thelonius Monk)
+
+<a href="https://amahadevan99.github.io/files/website_music/sentimental_mood.pdf"> In a Sentimental Mood</a> (Duke Ellington)
