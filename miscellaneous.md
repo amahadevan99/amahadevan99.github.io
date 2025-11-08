@@ -49,3 +49,7 @@ permalink: /miscellaneous/
 <a href="https://amahadevan99.github.io/files/website_music/nearness_of_you.pdf"> The Nearness of You</a> (Hoagy Carmichael)
 
 <a href="https://amahadevan99.github.io/files/website_music/all_of_you.pdf"> All of You</a> (Cole Porter)
+
+<a href="https://amahadevan99.github.io/files/website_music/days_of_wine_and_roses.pdf"> Days of Wine and Roses</a> (Henry Mancini)
+
+<a href="https://amahadevan99.github.io/files/website_music/there_will_never_be_another_you.pdf"> There Will Never Be Another You</a> (Harry Warren)
