@@ -53,3 +53,12 @@ permalink: /miscellaneous/
 <a href="https://amahadevan99.github.io/files/website_music/days_of_wine_and_roses.pdf"> Days of Wine and Roses</a> (Henry Mancini)
 
 <a href="https://amahadevan99.github.io/files/website_music/there_will_never_be_another_you.pdf"> There Will Never Be Another You</a> (Harry Warren)
+
+<a href="https://amahadevan99.github.io/files/website_music/bye_bye_blackbird.pdf"> Bye Bye Blackbird</a> (Ray Henderson)
+
+<a href="https://amahadevan99.github.io/files/website_music/beautiful_love.pdf"> Beautiful Love</a> (Victor Young et al)
+
+<a href="https://amahadevan99.github.io/files/website_music/what_is_this_thing_called_love.pdf"> What is This Thing Called Love?</a> (Cole Porter)
+
+<a href="https://amahadevan99.github.io/files/website_music/all_of_me.pdf"> All of Me</a> (Gerald Marks)
+
