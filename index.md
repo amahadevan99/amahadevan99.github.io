@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-I am a graduate student at Stanford working on biological/statistical physics and music.
+I am a postdoc at NITMB/UChicago interested in music and physics and biology.
 
 <span style="font-size:26px;">[Blog](blog.md)</span>
 
