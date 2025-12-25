@@ -64,3 +64,6 @@ permalink: /miscellaneous/
 
 <a href="https://amahadevan99.github.io/files/website_music/santa_claus_is_coming_to_town.pdf"> Santa Claus is Coming to Town</a> (J. Fred Coots)
 
+<a href="https://amahadevan99.github.io/files/website_music/have_yourself_a_merry.pdf"> Have Yourself a Merry Little Christmas</a> (Hugh Martin)
+
+<a href="https://amahadevan99.github.io/files/website_music/have_you_met_miss_jones.pdf"> Have You Met Miss Jones?</a> (Richard Rodgers)
