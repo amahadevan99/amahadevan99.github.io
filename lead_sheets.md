@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Miscellaneous
-permalink: /miscellaneous/
+title: Lead Sheets
+permalink: /lead_sheets/
 ---
 
-# Miscellaneous
+# Transcriptions and Lead Sheets
 
-## Transcriptions & Lead Sheets
+## Transcriptions
 
 <a href="https://amahadevan99.github.io/files/website_music/freddie_freeloader.pdf"> Freddie Freeloader</a> (Miles Davis, solo by Wynton Kelly)
 
@@ -17,6 +17,8 @@ permalink: /miscellaneous/
 <a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a> (Ray Noble, solo by Charlie Parker)
 
 <a href="https://amahadevan99.github.io/files/website_music/after_youve_gone.pdf"> After You've Gone</a> (Turner Layton, solo by Patrick Bartley)
+
+## Lead Sheets
 
 <a href="https://amahadevan99.github.io/files/website_music/sleigh_ride.pdf"> Sleigh Ride</a> (Leroy Anderson)
 
@@ -69,3 +71,5 @@ permalink: /miscellaneous/
 <a href="https://amahadevan99.github.io/files/website_music/the_christmas_song.pdf"> The Christmas Song</a> (Melvin Tormé)
 
 <a href="https://amahadevan99.github.io/files/website_music/have_you_met_miss_jones.pdf"> Have You Met Miss Jones?</a> (Richard Rodgers)
+
+<a href="https://amahadevan99.github.io/files/website_music/monsters_inc_theme.pdf"> Theme from Monsters, Inc.</a> (Randy Newman)
