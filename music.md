@@ -18,7 +18,17 @@ permalink: /music/
 
 <a href="https://www.youtube.com/watch?v=UhhYJ2zSoyw"> [recording]</a> <a href="https://amahadevan99.github.io/files/website_music/cathedral_peak_full.pdf"> [score]</a> Cathedral Peak (for piano)
 
-<a href="https://www.youtube.com/watch?v=EyAY5vU0z98"> [recording]</a> Light Bright
+<a href="https://www.youtube.com/@adityam2111"> various recordings </a>
 
-<a href="https://www.youtube.com/watch?v=HJV9wWiDl7w"> [recording]</a> City Jungle
+
+
+## Music for Film
+
+I have worked with my friend <a href="https://www.danielshaykevich.com"> Daniel Shaykevich</a> on the music in some of his documentaries:
+
+<a href="https://www.youtube.com/watch?v=SpuKXpX-r98"> Walk and Talk</a>
+
+<a href="https://www.youtube.com/watch?v=kkNkVVn33nI"> Precious Cargo</a>
+
+<a href="https://www.youtube.com/watch?v=wg8YQu0y85k"> All the Little Things</a>
 
