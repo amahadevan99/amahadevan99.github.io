@@ -6,8 +6,6 @@ permalink: /lead_sheets/
 
 # Lead Sheets
 
-## Transcriptions
-
 <a href="https://amahadevan99.github.io/files/website_music/giant_steps.pdf"> Giant Steps</a> (John Coltrane)
 
 <a href="https://amahadevan99.github.io/files/website_music/confirmation.pdf"> Confirmation</a> (Charlie Parker)
