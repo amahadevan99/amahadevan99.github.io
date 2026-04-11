@@ -6,7 +6,7 @@ permalink: /lead_sheets/
 
 # Lead Sheets
 
-<a href="https://amahadevan99.github.io/files/website_music/barefoot_sunday_blues.pdf"> Barefoot Sunday Blues</a> (Cannonball Adderly)
+<a href="https://amahadevan99.github.io/files/website_music/barefoot_sunday_blues.pdf"> Barefoot Sunday Blues</a> (Cannonball Adderley)
 
 <a href="https://amahadevan99.github.io/files/website_music/confirmation.pdf"> Confirmation</a> (Charlie Parker)
 
