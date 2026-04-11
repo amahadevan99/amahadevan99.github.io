@@ -4,21 +4,17 @@ title: Lead Sheets
 permalink: /lead_sheets/
 ---
 
-# Transcriptions and Lead Sheets
+# Lead Sheets
 
 ## Transcriptions
-
-<a href="https://amahadevan99.github.io/files/website_music/freddie_freeloader.pdf"> Freddie Freeloader</a> (Miles Davis, solo by Wynton Kelly)
 
 <a href="https://amahadevan99.github.io/files/website_music/giant_steps.pdf"> Giant Steps</a> (John Coltrane)
 
 <a href="https://amahadevan99.github.io/files/website_music/confirmation.pdf"> Confirmation</a> (Charlie Parker)
 
-<a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a> (Ray Noble, solo by Charlie Parker)
+<a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a> (Ray Noble)
 
-<a href="https://amahadevan99.github.io/files/website_music/after_youve_gone.pdf"> After You've Gone</a> (Turner Layton, solo by Patrick Bartley)
-
-## Lead Sheets
+<a href="https://amahadevan99.github.io/files/website_music/after_youve_gone.pdf"> After You've Gone</a> (Turner Layton)
 
 <a href="https://amahadevan99.github.io/files/website_music/sleigh_ride.pdf"> Sleigh Ride</a> (Leroy Anderson)
 
