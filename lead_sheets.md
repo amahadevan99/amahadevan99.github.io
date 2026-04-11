@@ -6,13 +6,15 @@ permalink: /lead_sheets/
 
 # Lead Sheets
 
-<a href="https://amahadevan99.github.io/files/website_music/giant_steps.pdf"> Giant Steps</a> (John Coltrane)
+<a href="https://amahadevan99.github.io/files/website_music/barefoot_sunday_blues.pdf"> Barefoot Sunday Blues</a> (Cannonball Adderly)
 
 <a href="https://amahadevan99.github.io/files/website_music/confirmation.pdf"> Confirmation</a> (Charlie Parker)
 
 <a href="https://amahadevan99.github.io/files/website_music/cherokee.pdf"> Cherokee</a> (Ray Noble)
 
 <a href="https://amahadevan99.github.io/files/website_music/after_youve_gone.pdf"> After You've Gone</a> (Turner Layton)
+
+<a href="https://amahadevan99.github.io/files/website_music/giant_steps.pdf"> Giant Steps</a> (John Coltrane)
 
 <a href="https://amahadevan99.github.io/files/website_music/after_youve_gone.pdf"> St Thomas</a> (Sonny Rollins)
 
