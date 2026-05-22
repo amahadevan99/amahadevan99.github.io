@@ -8,7 +8,7 @@ permalink: /music/
 
 ## A Redness in the Sky
 
-An album compiled in <a href="https://www.youtube.com/playlist?list=PLSGMgJEEseMMXBQ8RaLxuIhX2tgMhjuw9"> this playlist</a>.
+An album that can be found in <a href="https://www.youtube.com/playlist?list=PLSGMgJEEseMMXBQ8RaLxuIhX2tgMhjuw9"> this playlist</a> or on <a href="https://adityamahadevan.bandcamp.com/album/a-redness-in-the-sky"> Bandcamp</a>.
 
 ## Composition
 
