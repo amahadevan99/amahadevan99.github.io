@@ -6,6 +6,10 @@ permalink: /music/
 
 # Music
 
+## A Redness in the Sky
+
+An album compiled in <a href="https://www.youtube.com/playlist?list=PLSGMgJEEseMMXBQ8RaLxuIhX2tgMhjuw9"> this playlist</a>.
+
 ## Composition
 
 <a href="https://amahadevan99.github.io/files/website_music/vln_vla_pno_apr_2025.pdf"> [score]</a> Trio (for violin, viola, piano)
@@ -19,7 +23,6 @@ permalink: /music/
 <a href="https://www.youtube.com/watch?v=UhhYJ2zSoyw"> [recording]</a> <a href="https://amahadevan99.github.io/files/website_music/cathedral_peak_full.pdf"> [score]</a> Cathedral Peak (for piano)
 
 <a href="https://www.youtube.com/@adityam2111"> various recordings </a>
-
 
 
 ## Music for Film
