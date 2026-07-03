@@ -82,3 +82,5 @@ permalink: /lead_sheets/
 
 <a href="https://amahadevan99.github.io/files/website_music/I_could_write_a_book.pdf"> I Could Write a Book</a> (Richard Rodgers)
 
+<a href="https://amahadevan99.github.io/files/website_music/they_cant_take_that_away_from_me.pdf"> They Can't Take That Away From Me</a> (George Gershwin)
+
