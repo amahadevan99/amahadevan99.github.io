@@ -1,0 +1,118 @@
+<script id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<p>In a previous set of notes we derived the Bethe equations whose solutions characterize the entire spectrum of the Heisenberg XXX spin chain. However, solving these equation is no mean feat. In this post we will discuss a different Bethe-ansatz-solvable problem where the Bethe equations are easier to solve, and we will proceed to solve them numerically.</p>
+
+<h3 id="tasep">TASEP</h3>
+<p>The model we will analyze is called the totally asymmetric exclusion process, or TASEP. The model is a continuous-time Markov process in which particles on a one-dimensional lattice hop from their current site to the site directly to their right at some constant rate, but only if the site on their right is unoccupied. We will analyze the model with periodic boundary conditions (on a ring, with particles hopping clockwise). Let us say that there are \(N\) particles and \(L\) sites. Certain simplifications arise in the case that \(L=2N\), which we will see shortly.</p>
+
+<p>A solution of this model is equivalent to diagonalizing the Markov matrix \(M\) of the process, which generates the dynamics of the system according to</p>
+
+\[\frac{d}{dt} P(C_i) = \sum_j M_{ij}P(C_j),\]
+
+<p>were \(P(C_i)\) is the probability of the system being in configuration \(i\).</p>
+
+<hr />
+<p>title: “Kinetic Proofreading”
+date: 2022-12-04
+—</p>
+
+<script id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<p>Our goal in this post is to discuss a central idea illuminated by John Hopfield in the 1970s, to explain the extraordinarily low error rates in DNA replication. First, what do we mean by low error rates. Low compared to what?</p>
+
+<p>One could imagine that even if a biological replication mechanism were perfectly accurate, there would inevitable be errors in DNA replication due to the fact that this is a process that occurs at nonzero temperature. Therefore thermal fluctuations will, with nonzero probability, induce errors: the bigger the energy cost of an error, the lower the rate at which it will occur due to thermal fluctuations.</p>
+
+<hr />
+<p>title: “Random Matrices with Complex Eigenvalues”
+date: 2022-12-04
+—</p>
+
+<script id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<p>Here we will present three ways to calculate the spectral density of a random matrix. These ways are related, but not obviously so. In addition, we will discuss what aspects of these techniques break down for matrices with complex eigenvalues, i.e. nonsymmetric matrices.</p>
+
+<h2 id="the-resolvent">The Resolvent</h2>
+<p>Central to calculating the spectral density of the matrix ensembles we will consider here is the concept of the <em>resolvent</em> of a random matrix ensemble, defined as</p>
+
+\[g(z) = \operatorname{E}\left[\operatorname{Tr}frac{1}{H-z}\right].\]
+
+<p>The importance of the resolvent, and its relationship to the spectral density of the matrix ensemble, is discussed more <a href="https://amahadevan99.github.io/files/marchenko_pastur.pdf">here</a>. For now we simply recall that the spectral density of eigenvalues \(\rho(z)\) is related to \(g(z)\) by</p>
+
+\[\rho(z) = \frac{1}{\pi} \lim_{\epsilon\to0^+} \Im g(z-i\epsilon).\]
+
+<p>Moment method (Large N)</p>
+
+<p>Cavity Method</p>
+
+<p>Linear Response</p>
+
+<hr />
+<p>title: “Dangerous Irrelevant Operators”
+date: 2023-07-17
+—</p>
+
+<script id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<p>What is a dangerous irrelevant operator?</p>
+
+<hr />
+<p>title: “What is a Griffiths phase?”
+date: 2023-07-17
+—</p>
+
+<script id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<p>Griffiths singularities and the associated Griffiths phases are consequences of quenched randomness in statistical mechanics models, and are particularly important in the study of disordered <em>quantum</em> systems.</p>
+
+<h3 id="griffiths-singularities">Griffiths Singularities</h3>
+
+<h4 id="classical">Classical</h4>
+
+<h4 id="quantum">Quantum</h4>
+
+<h3 id="lifshitz-tails">Lifshitz Tails</h3>
+
+<h3 id="references">References</h3>
+<p><a href="https://arxiv.org/pdf/1301.7746.pdf">T. Vojta’s review</a></p>
+
+<p>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+GENE REGULATION</p>
+
+<p>for Michaelis Menten kinetics if not assuming substrate is plentiful, get
+\([EA] = \frac{1}{2}\left(e+a+\frac{\beta}{\alpha} - \sqrt{(e+a+\frac{\beta}{\alpha})^2-4ea}\right).\)</p>
+
+<p>Now we can model the diauxic shift: we start with the cell in a medium containing both glucose and lactose, and we look at how the cell consumes the two carbon sources. We therefore need to couple the glucose and lactose concentrations to the activity of the cell.</p>
+
+<h2 id="lambda-phage-switch">\(\lambda\) phage switch</h2>
+
+<p>Phage $$\lambda$ in <em>E. coli</em> has a lytic and lysogenic life cycle. The switch from lysogenic to lytic is the genetic regulation switch of interest. This is controlled by two proteins: <em>cI</em> and <em>cro</em>. The phage remains lysogenic when <em>cI</em> proteins dominate, and becomes lytic when <em>cro</em> proteins dominate. The switch arises through mutual inhibition.</p>
+
+<h2 id="trp-operon"><em>trp</em> operon</h2>
+
+<h2 id="history">History</h2>
+<p>How was the <em>lac</em> operon and its function discovered?</p>
+
+<h2 id="iptg-and-use-of-the-lac-operon">IPTG and use of the <em>lac</em> operon</h2>
+
+<p>IPTG is a molecule that is similar to lactose but is not metabolized by E. coli. Therefore it can be used as an inducer, which, when introduced in the environment, will activate transcription of the <em>lac</em> operon.</p>
+
+<p>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</p>
+
+<hr />
+<p>title: “The Clebsch Gordan coefficients”
+date: 2022-12-04
+—</p>
+
+<script id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<p>Here we will review the derivation of the Clebsch Gordan coefficients for the addition of angular momenta. On the way we will have to learn about reducible and irreducible representations.</p>
+
+<p>We will take as a given the fact that spin operators are elements of the Lie algebra \(\mathfrak{su}(2)\), and by exponentiating them, we obtain elements of the Lie group \(SU(2)\), which is the group of \(2\times 2\) complex unitary matrices with unit determinant.</p>
+
+<p>There is an added complication of MHC presentation that we have so far not discussed, which is particularly relevant to TCRs. The MHC (major histocompatability complex) is a protein expressed on the outside of cells to which fragments of other proteins—both self and nonself—bind. TCRs actually recognize a combination of MHC and peptide, and an individual person’s MHC alleles will determine which peptides are actually presented in that individual, with substational variation between individuals. In fact, the MHC region of our genome is among the most variable/fastest evolving, likely because having diversity in this region makes a pathogen very unlikely to evolve to be able to not bind to any of the many MHC alleles in the population.
+However, this difference between individuals means that an individual’s TCR repertoire sees a different version of “self” for each individual, even of the same species with largely the same protein content in the genome. Nonetheless, each individual’s immune system seems to be able to tolerize itself against reacting against these different sets of MHC-presented peptides. How exactly this happens remains somewhat mysterious!</p>
