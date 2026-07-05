@@ -1,3 +1,4 @@
 not_for_commit/*
+_site/
 *.DS_Store
 .claude/
