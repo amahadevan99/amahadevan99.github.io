@@ -23,7 +23,7 @@ $$ \delta x(t) = \int_0^\infty \chi(\tau)h(t-\tau) d\tau,$$
 
 where $$\delta x(t)$$ is the change in $$x(t)$$ caused by external field $$h(t)$$. Note that the convolution above makes it convenient to work in Laplace (or Fourier) transforms, since convolutions become multiplications.
 
-So how is the response function of $$x_i = \sum_j M_{ij} x_j$$ related to resolvent of $$M$$? If one takes a Laplace transform of the dynamical equation with an external field $$h_i(t)$$ and then solves for the response function, one can immediately see how the resolvent emerges. Recall that the response function can be computed by taking the functional derivative $$\delta x_i(t)/\delta h_i(t-\tau)$$, which in Laplace variables amounts to dividing $$\tilde x_i(z)$$ by $$\tilde h_i(z)$$.
+So how is the response function of $$ \dot x_i = \sum_j M_{ij} x_j$$ related to resolvent of $$M$$? If one takes a Laplace transform of the dynamical equation with an external field $$h_i(t)$$ and then solves for the response function, one can immediately see how the resolvent emerges. Recall that the response function can be computed by taking the functional derivative $$\delta x_i(t)/\delta h_i(t-\tau)$$, which in Laplace variables amounts to dividing $$\tilde x_i(z)$$ by $$\tilde h_i(z)$$.
 
 
 ## Gaussian orthogonal ensemble
@@ -36,7 +36,7 @@ where $$A$$ is drawn from the ensemble whose spectral density we wish to compute
 
 $$ \dot x_0 = A_{0j}(x_j(t)+\delta x_j(t)) + A_{00}x_0(t),$$
 
-where $$\delta x_j(t)$$ measures the change in the the components of the $$x$$ vector due to the addition of $$x_0$. These in turn are dynamical variables given (according to the definition of the response function) by
+where $$\delta x_j(t)$$ measures the change in the the components of the $$x$$ vector due to the addition of $$x_0$$. These in turn are dynamical variables given (according to the definition of the response function) by
 
 $$ \delta x_j(t)  = A_{j0}\int^\infty \chi_j(\tau)x_0(t-\tau)d\tau$$
 
@@ -69,7 +69,7 @@ This equation allows us to directly solve for the response function, and we get
 
 $$ \tilde\chi(z) = \frac12\left(z \pm i\sqrt{4-z^2}\right).$$
 
-Note that the imaginary part of this is exactly the resolvent of a GOE matrix, up to a factor of $$\pi$$ as expected. Namely,
+Note that the imaginary part of this is exactly the resolvent of a GOE matrix, up to a factor of $$\pi$$ as expected. We can therefore derive the spectral density (the pdf of the eigenvalues) of the matrix $$A$$: namely,
 
 $$ \rho(x) = \frac{1}{2\pi}\sqrt{4-x^2}.$$
 
@@ -116,7 +116,7 @@ $$ -q^2-(z-1)^2+2q(z+1) = [(1+\sqrt q)^2 - x][x-(1-\sqrt q)^2],$$
 
 we have that the density of states of the Wishart matrix is
 
-$$ p(x) = \frac{1}{2\pi}\frac{\sqrt{(\lambda_+-x)(x-\lambda_-)}}{qx},\quad \text{with } \lambda_\pm = (1\pm\sqrt q)^2.$$
+$$ \rho(x) = \frac{1}{2\pi}\frac{\sqrt{(\lambda_+-x)(x-\lambda_-)}}{qx},\quad \text{with } \lambda_\pm = (1\pm\sqrt q)^2.$$
 
 This formula is valid for $$0\leq q\leq 1$$; for $$q>1$$ one additionally gets a $$(1-1/q)\delta(x)$$ contribution from the zero-eigenvalues.
 

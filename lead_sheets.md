@@ -84,3 +84,6 @@ permalink: /lead_sheets/
 
 <a href="https://amahadevan99.github.io/files/website_music/they_cant_take_that_away_from_me.pdf"> They Can't Take That Away From Me</a> (George Gershwin)
 
+<a href="https://amahadevan99.github.io/files/website_music/I_cant_help_it.pdf"> I Can't Help It</a> (Stevie Wonder and Susaye Green)
+
+<a href="https://amahadevan99.github.io/files/website_music/you_and_I.pdf"> You and I</a> (Stevie Wonder)
