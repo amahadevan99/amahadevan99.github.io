@@ -1,4 +1,8 @@
 title: Aditya Mahadevan
 description: personal webpage
-theme: minima 
+theme: minima
 author: "amahadevan99@gmail.com"
+header_pages:
+  - blog.md
+  - music.md
+  - notes.md
