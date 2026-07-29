@@ -6,15 +6,15 @@ permalink: /music/
 
 # Music
 
-## <a href="https://amahadevan99.github.io/lead_sheets/"> Lead Sheets </a>
+<a href="https://amahadevan99.github.io/lead_sheets/"> Lead Sheets </a>
 
-## <a href="https://www.youtube.com/@adityam2111"> YouTube channel </a>
+<a href="https://www.youtube.com/@adityam2111"> YouTube channel </a>
 
-## <a href="https://amahadevan99.github.io/recordings/"> Other Recordings </a>
+<a href="https://amahadevan99.github.io/recordings/"> Other Recordings </a>
 
 ## A Redness in the Sky
 
-An album that can be found in <a href="https://www.youtube.com/playlist?list=PLSGMgJEEseMMXBQ8RaLxuIhX2tgMhjuw9"> this playlist</a> or on <a href="https://adityamahadevan.bandcamp.com/album/a-redness-in-the-sky"> Bandcamp</a>.
+I made an album that can be found in <a href="https://www.youtube.com/playlist?list=PLSGMgJEEseMMXBQ8RaLxuIhX2tgMhjuw9"> this playlist</a> or on <a href="https://adityamahadevan.bandcamp.com/album/a-redness-in-the-sky"> Bandcamp</a>.
 
 ## Composition
 
