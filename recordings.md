@@ -6,7 +6,7 @@ permalink: /recordings/
 
 ## Gabriel Lochard
 
-Some excerpts from a recital with Gabriel Lochard, soprano and Aditya Mahadevan, piano.
+Excerpts from a recital with Gabriel Lochard, soprano.
 
 Bei dir sind meine Gedanken (Brahms)
 <audio controls style="width:100%; margin-bottom: 0.3em;">
@@ -42,5 +42,3 @@ Nature Boy & Autumn Leaves (eden ahbez, Joseph Kosma & Johnny Mercer)
 <audio controls style="width:100%; margin-bottom: 0.3em;">
   <source src="https://amahadevan99.github.io/files/website_mp3/nature_boy_autumn_leaves.mp3" type="audio/mpeg">
 </audio>
-
-
