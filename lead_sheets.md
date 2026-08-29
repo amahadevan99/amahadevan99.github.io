@@ -87,3 +87,7 @@ permalink: /lead_sheets/
 <a href="https://amahadevan99.github.io/files/website_music/I_cant_help_it.pdf"> I Can't Help It</a> (Stevie Wonder and Susaye Green)
 
 <a href="https://amahadevan99.github.io/files/website_music/you_and_I.pdf"> You and I</a> (Stevie Wonder)
+
+<a href="https://amahadevan99.github.io/files/website_music/in_the_still_of_the_night.pdf"> In the Still of the Night</a> (Cole Porter)
+
+<a href="https://amahadevan99.github.io/files/website_music/in_the_still_of_the_night.pdf"> Oblivion</a> (Bud Powell)
