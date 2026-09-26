@@ -90,4 +90,8 @@ permalink: /lead_sheets/
 
 <a href="https://amahadevan99.github.io/files/website_music/in_the_still_of_the_night.pdf"> In the Still of the Night</a> (Cole Porter)
 
-<a href="https://amahadevan99.github.io/files/website_music/in_the_still_of_the_night.pdf"> Oblivion</a> (Bud Powell)
+<a href="https://amahadevan99.github.io/files/website_music/oblivion.pdf"> Oblivion</a> (Bud Powell)
+
+<a href="https://amahadevan99.github.io/files/website_music/straight_no_chaser.pdf"> Straight, No Chaser</a> (Thelonious Monk)
+
+<a href="https://amahadevan99.github.io/files/website_music/straight_no_chaser.pdf"> Mohawk</a> (Charlier Parker)
