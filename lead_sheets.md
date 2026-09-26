@@ -94,4 +94,6 @@ permalink: /lead_sheets/
 
 <a href="https://amahadevan99.github.io/files/website_music/straight_no_chaser.pdf"> Straight, No Chaser</a> (Thelonious Monk)
 
-<a href="https://amahadevan99.github.io/files/website_music/straight_no_chaser.pdf"> Mohawk</a> (Charlier Parker)
+<a href="https://amahadevan99.github.io/files/website_music/mohawk.pdf"> Mohawk</a> (Charlier Parker)
+
+<a href="https://amahadevan99.github.io/files/website_music/blues_for_alice.pdf"> Blues For Alice</a> (Charlier Parker)
