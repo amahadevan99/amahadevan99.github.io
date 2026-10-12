@@ -97,3 +97,5 @@ permalink: /lead_sheets/
 <a href="https://amahadevan99.github.io/files/website_music/mohawk.pdf"> Mohawk</a> (Charlier Parker)
 
 <a href="https://amahadevan99.github.io/files/website_music/blues_for_alice.pdf"> Blues For Alice</a> (Charlier Parker)
+
+<a href="https://amahadevan99.github.io/files/website_music/scrapple_from_the_apple.pdf"> Scrapple from the Apple</a> (Charlier Parker)
