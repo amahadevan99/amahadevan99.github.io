@@ -32,6 +32,10 @@ Some of my notes on various topics.
 
 <a href="https://amahadevan99.github.io/files/fpt_notes.pdf"> First passage times [PDF]</a>
 
+<br>
+
 -----
+
+<br>
 
 <a href="https://amahadevan99.github.io/files/1-intro.pdf"> Thesis Introduction [PDF]</a>
