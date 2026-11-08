@@ -101,3 +101,7 @@ permalink: /lead_sheets/
 <a href="https://amahadevan99.github.io/files/website_music/scrapple_from_the_apple.pdf"> Scrapple from the Apple</a> (Charlie Parker)
 
 <a href="https://amahadevan99.github.io/files/website_music/evidence.pdf"> Evidence</a> (Thelonious Monk)
+
+<a href="https://amahadevan99.github.io/files/website_music/but_not_for_me.pdf"> But Not For Me</a> (George Gershwin)
+
+<a href="https://amahadevan99.github.io/files/website_music/minority.pdf"> Minority</a> (Gigi Gryce)
